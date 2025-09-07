@@ -1,5 +1,6 @@
 package com.linkedin.automation.tests;
 
+import com.linkedin.automation.base.BaseTest;
 import com.linkedin.automation.pages.JobSearchPage;
 import com.linkedin.automation.pages.LoginPage;
 import com.linkedin.automation.utils.FileUtils;
