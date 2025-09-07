@@ -65,5 +65,3 @@ Or run the `testng.xml` file directly from your IDE.
 - Apache POI (for future Excel integration)
 - Extent Reports (for reporting)
 - Log4j2 (for logging)
-
-## License
