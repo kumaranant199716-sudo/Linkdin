@@ -67,5 +67,3 @@ Or run the `testng.xml` file directly from your IDE.
 - Log4j2 (for logging)
 
 ## License
-
-This project is for educational purposes only. Use at your own risk.
