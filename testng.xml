@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LinkedIn Job Application Suite" parallel="tests" thread-count="1">
+    <listeners>
+        <listener class-name="com.linkedin.automation.listeners.TestListener"/>
+    </listeners>
+    
+    <test name="LinkedIn Job Application Test">
+        <classes>
+            <class name="com.linkedin.automation.tests.LinkedInJobApplicationTest"/>
+        </classes>
+    </test>
+</suite>
